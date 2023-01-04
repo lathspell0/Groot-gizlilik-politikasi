@@ -21,11 +21,11 @@ Hayır. Kimseye verilerinizi paylaşmamaktayız.
 
 Geliştiriciyle nasıl iletişime geçebilirim?
 
-Destek sunucusundan(https://discord.gg/7RAey47Yqt) PANDA,#1000 ile iletişime geçebilirsiniz.
+Destek sunucusundan(https://discord.gg/7RAey47Yqt) PANDA,#1000 veya Lathspell#0001 ile iletişime geçebilirsiniz.
 
 Verilerinizi nasıl kaldırabilirsiniz?
 
-Destek sunucusundan(https://discord.gg/7RAey47Yqt) Orion botun geliştricisi olan PANDA,#1000 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
+Destek sunucusundan(https://discord.gg/7RAey47Yqt) Orion botun geliştricisi olan PANDA,#1000 veya Lathspell#0001 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
 
 Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 

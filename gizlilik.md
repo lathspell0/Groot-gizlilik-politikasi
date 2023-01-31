@@ -1,6 +1,6 @@
-Orion Bot Gizlilik Politikası
+Groot Bot Gizlilik Politikası
 
-Orion'ı kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
+Groot'u kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
 
 
 Hangi veriler saklanır?
